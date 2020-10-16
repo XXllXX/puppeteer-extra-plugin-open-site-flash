@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-extra-plugin-open-site-flash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XXllXX/puppeteer-extra-plugin-open-site-flash.git",
+  "author": "xxllxx <xxllxx@xxllxx.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer-extra-plugin": "^3.1.7"
+  }
+}
